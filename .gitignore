@@ -1,0 +1,29 @@
+# Large data files
+*.mat
+*.pth
+
+# Generated plots
+plots/*.png
+plots/*.jpg
+plots/*.jpeg
+plots/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
